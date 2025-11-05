@@ -26,13 +26,7 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/0tsuro/OrangePill">
-        <img src="./assets/orangepill.png" width="150" style="border-radius:15px"/>
-      </a>
-      <br/><b>OrangePill</b><br/>🌐 Front-end DEV
-    </td>
-    <td align="center">
+    
       <a href="https://github.com/0tsuro/Motocats">
         <img src="./assets/motocat.png" width="150" style="border-radius:15px"/>
       </a>
