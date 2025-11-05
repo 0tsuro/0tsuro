@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    
+    <td>
       <a href="https://github.com/0tsuro/Motocats">
         <img src="./assets/motocat.png" width="150" style="border-radius:15px"/>
       </a>
